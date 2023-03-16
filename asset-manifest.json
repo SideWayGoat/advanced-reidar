@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/advanced-reidar/static/css/main.756af292.css",
-    "main.js": "/advanced-reidar/static/js/main.d5e00df2.js",
+    "main.js": "/advanced-reidar/static/js/main.3e949c6f.js",
     "static/js/787.a5a39c5a.chunk.js": "/advanced-reidar/static/js/787.a5a39c5a.chunk.js",
     "index.html": "/advanced-reidar/index.html",
     "main.756af292.css.map": "/advanced-reidar/static/css/main.756af292.css.map",
-    "main.d5e00df2.js.map": "/advanced-reidar/static/js/main.d5e00df2.js.map",
+    "main.3e949c6f.js.map": "/advanced-reidar/static/js/main.3e949c6f.js.map",
     "787.a5a39c5a.chunk.js.map": "/advanced-reidar/static/js/787.a5a39c5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.d5e00df2.js"
+    "static/js/main.3e949c6f.js"
   ]
 }
